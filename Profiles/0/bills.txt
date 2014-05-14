@@ -1,0 +1,2 @@
+cell phone,40,5
+gas,75,1

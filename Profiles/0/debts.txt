@@ -1,0 +1,2 @@
+car loan,loan,2000,145,45,45
+student,loan,15000,24,245,245
